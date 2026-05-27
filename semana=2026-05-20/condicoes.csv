@@ -1,9 +1,9 @@
 ,datetime,description,icon
-0,2026-05-20,Partly cloudy throughout the day.,partly-cloudy-day
+0,2026-05-20,Partly cloudy throughout the day with rain clearing later.,rain
 1,2026-05-21,Partly cloudy throughout the day.,partly-cloudy-day
-2,2026-05-22,Partly cloudy throughout the day.,partly-cloudy-day
-3,2026-05-23,Partly cloudy throughout the day with a chance of rain.,rain
+2,2026-05-22,Cloudy skies throughout the day.,cloudy
+3,2026-05-23,Cloudy skies throughout the day with a chance of rain throughout the day.,rain
 4,2026-05-24,Partly cloudy throughout the day with a chance of rain.,rain
-5,2026-05-25,Partly cloudy throughout the day with morning rain.,rain
-6,2026-05-26,Partly cloudy throughout the day.,partly-cloudy-day
+5,2026-05-25,Cloudy skies throughout the day.,cloudy
+6,2026-05-26,Cloudy skies throughout the day.,cloudy
 7,2026-05-27,Partly cloudy throughout the day.,partly-cloudy-day
