@@ -3,4 +3,8 @@
 venv/
 __pycache__/
 .idea/
-Docker/
+Docker/config
+Docker/logs
+Docker/plugins
+Docker/docker-compose.yaml
+Docker/.env
