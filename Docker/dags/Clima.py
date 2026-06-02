@@ -7,7 +7,11 @@ from airflow.providers.standard.operators.empty import EmptyOperator
 with DAG(
     "Dados_Clima",
     dag_id="Clima",
+
+    # Define a data a partir da qual o Airflow começa a considerar execuções da DAG.
     start_date=pendulum.datetime(2020, 1, 1, tz="America/Sao_Paulo"),
+
+    # É uma expressão Cron que define quando a DAG será executada.
     schedule_interval='0 0 * * 1', #executar toda segunda
 
 )as dag:
